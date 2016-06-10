@@ -127,7 +127,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamarinPortable_Chapter2\XamarinPortable_Chapter2\XamarinPortable_Chapter2.csproj">
+    <ProjectReference Include="..\XamarinPortable_Chapter2\XamarinPortable_Chapter2.csproj">
       <Project>{517802b3-a2f3-4b6b-abe2-dc9f700fb883}</Project>
       <Name>XamarinPortable_Chapter2</Name>
     </ProjectReference>

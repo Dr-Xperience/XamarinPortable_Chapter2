@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortable_Chapter2.Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortable_Chapter2.Windows", "XamarinPortable_Chapter2\XamarinPortable_Chapter2.Windows\XamarinPortable_Chapter2.Windows.csproj", "{11240EC0-84DC-4D25-B741-44143218F5A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortable_Chapter2.UWP", "XamarinPortable_Chapter2.UWP\XamarinPortable_Chapter2.UWP.csproj", "{54456536-6FAA-4A40-A0BE-DD26541533C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortable_Chapter2.UWP", "XamarinPortable_Chapter2\XamarinPortable_Chapter2.UWP\XamarinPortable_Chapter2.UWP.csproj", "{54456536-6FAA-4A40-A0BE-DD26541533C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -342,8 +342,6 @@ Global
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.AppStore|x86.Build.0 = Release|x86
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.AppStore|x86.Deploy.0 = Release|x86
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|Any CPU.Build.0 = Debug|x86
-		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|ARM.ActiveCfg = Debug|ARM
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|ARM.Build.0 = Debug|ARM
 		{54456536-6FAA-4A40-A0BE-DD26541533C8}.Debug|ARM.Deploy.0 = Debug|ARM
