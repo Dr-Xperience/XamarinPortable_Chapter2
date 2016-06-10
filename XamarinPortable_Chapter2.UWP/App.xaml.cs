@@ -56,6 +56,8 @@ namespace XamarinPortable_Chapter2.UWP
 
                 rootFrame.NavigationFailed += OnNavigationFailed;
 
+                Xamarin.Forms.Forms.Init(e); // requires the `e` parameter
+
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {
                     //TODO: Load state from previously suspended application

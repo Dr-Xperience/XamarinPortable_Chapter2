@@ -20,11 +20,15 @@ namespace XamarinPortable_Chapter2.UWP
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class MainPage : Page
+    public sealed partial class MainPage //: Page
     {
         public MainPage()
         {
             this.InitializeComponent();
+            // below this existing line
+            this.InitializeComponent();
+            // add this line
+            LoadApplication(new XamarinPortable_Chapter2.App());
         }
     }
 }
